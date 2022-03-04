@@ -1,0 +1,19 @@
+
+    
+
+body {
+    background: #fff2cc;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    text-align: center ;
+
+  }
+
+ img {
+     width: 300px;
+     height: auto;   
+ } 
+
+ #myText {
+     display: none;
+ }
